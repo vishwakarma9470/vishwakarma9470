@@ -7,5 +7,5 @@
 ### 👨‍💻 About Me
 - 🎓 B.Tech Student at Guru Ghasidas Vishwavidyalaya, Bilaspur (NAAC A++).
 - 🏆 Winner of Smart India Hackathon 2023.
-- 💼 Currently a Data Engineer at Mediaport, automating data workflows and integrating database analysis for hospital systems.
+- 💼 Currently a Data Analytics at Mediaport, automating data workflows and integrating database analysis for hospital systems.
 - 🔍 Experienced in Machine learning , Data Analytics, Data Science, Generative AI, and Big Data.

@@ -58,26 +58,6 @@
 
 ---
 
-## 🚀 **Key Projects**  
-
-🔹 **[EmoSens Application](https://github.com/vishwakarma9470/EmoSens)**:  
-👉 Built a **real-time AI-driven emotion sensing app** using Google Gemini and Computer Vision.  
-👉 Implemented **facial expression analysis** with OpenCV & TensorFlow for emotion classification.  
-
-🔹 **[Career Pathways Prediction Using ECG & EEG](https://github.com/vishwakarma9470/Machine_Learning_Algorithms_-_Projects)**:  
-👉 Applied **Machine Learning models (Logistic Regression, Random Forest)** to predict career interests.  
-👉 Achieved **85% accuracy** in analyzing brainwave & heart rate data for career recommendations.  
-
-🔹 **[Code Generation Using Transformers](https://github.com/vishwakarma9470/Code-Generation-Using-Transformers)**:  
-👉 Developed a **Transformer-based model** for generating **accurate code snippets**.  
-👉 Used **NLP, TensorFlow, PyTorch, TorchText, SpaCy** for training & fine-tuning.  
-
-🔹 **[Wafer Fault Detection System](https://github.com/vishwakarma9470/Machine_Learning_Algorithms_-_Projects)**:  
-👉 Built an **ML model** to detect semiconductor **wafer faults** using **Random Forest, XGBoost, Decision Tree**.  
-👉 Optimized using **GridSearchCV & K-Fold**, achieving **94%+ accuracy**.  
-
----
-
 ## 📜 **Certifications & Achievements**  
 
 🏆 **Smart India Hackathon 2023 - Winner** (Among 500+ teams)  

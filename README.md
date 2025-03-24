@@ -14,7 +14,7 @@
 - 🏆 **Winner of Smart India Hackathon 2023** (Among 500+ teams)  
 - 💡 Passionate about **Generative AI, Machine Learning, Deep Learning, NLP, and Big Data**  
 - 🔭 Currently working  ** Data Analyst (Vagus Hospital) Mediport.in**  
-- 📫 How to reach me: **[manishvishawakarma2003@gmail.com](mailto:manishvishawakarma2003@gmail.com)**  
+- 📫 How to reach me: **[manishvishawakarma2003@gmail.com](mailto:mv947027@gmail.com)**  
 
 ---
 

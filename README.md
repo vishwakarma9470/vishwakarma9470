@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Manish Vishwakarma</h1>
-<h3 align="center">🚀 Data Science | AI | Generative AI | Machine Learning Enthusiast</h3>
+<h3 align="center">🚀 Data Science | AI | Generative AI | Machine Learning | Data Analyst Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+profile!;AI+%7C+ML+%7C+Big+Data+%7C+Generative+AI+🚀;Building+cool+projects+with+Python+%F0%9F%92%BB" alt="Typing SVG" />
@@ -34,6 +34,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0076A8?style=for-the-badge&logo=matplotlib&logoColor=white)
 
+
 ### **☁️ Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -66,12 +67,11 @@
 🔹 **Generative AI (OpenAI, Gemini, Langchain, Hugging Face, LLaMA 2, PhiData)**  
 
 ---
-
 ## 📫 **Connect With Me**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-vishwakarma-000739227/)  
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/vishwakarma9470)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:manishvishawakarma2003@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:manishvishawakarma2003@gmail.com)
 
 ---
 

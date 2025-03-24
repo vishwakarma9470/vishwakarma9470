@@ -8,72 +8,77 @@
 
 ---
 
-## 📌 **About Me**  
+---
 
-- 🎓 **Final Year B.Tech** (Information Technology) at **Guru Ghasidas Vishwavidyalaya, Bilaspur**  
-- 🏆 **Winner of Smart India Hackathon 2023** (Among 500+ teams)  
-- 💡 Passionate about **Generative AI, Machine Learning, Deep Learning, NLP, and Big Data**  
-- 🔭 Currently working  **Data Analyst (Vagus Hospital) Mediport.in**  
-- 📫 How to reach me: **[mv947027@gmail.com](mailto:mv947027@gmail.com)**  
+## 🎯 **About Me**
+
+- 🎓 **Final Year B.Tech** (Information Technology) at **Guru Ghasidas Vishwavidyalaya, Bilaspur**
+- 🏆 **Winner of Smart India Hackathon 2023** (Among 500+ teams)
+- 💡 Passionate about **AI, Machine Learning, NLP, Deep Learning, Generative AI & Big Data**
+- 🔭 **Currently working at Vagus Hospital ([MediPort.in](https://mediport.in))**
 
 ---
 
-## 🛠 **Tech Stack & Skills**  
+## ⚡ **Tech Stack & Skills**
 
 ### **💻 Programming Languages**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,sql" />
+</p>
 
 ### **🔬 AI/ML & Data Science**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0076A8?style=for-the-badge&logo=matplotlib&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,numpy,pandas,scipy" />
+</p>
 
+### **🌍 Data Analyst & Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=PowerBi,Tableau,Excel,mysql,mongodb,sqlite" />
+</p>
 
 ### **☁️ Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
----
-
-## 🔥 **GitHub Stats**  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwakarma9470&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vishwakarma9470&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakarma9470&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,docker" />
 </p>
 
 ---
 
-## 📜 **Certifications & Achievements**  
+## 🚀 **GitHub Stats & Activity**
 
-🏆 **Smart India Hackathon 2023 - Winner** (Among 500+ teams)  
-🔹 **Ethical Hacking & Penetration Testing** (C-DAC, NOIDA, Government of India)  
-🔹 **6+ months of Data Science training** (Equivalent to Internship - PW Skills)  
-🔹 **Generative AI (OpenAI, Gemini, Langchain, Hugging Face, LLaMA 2, PhiData)**  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishwakarma9470&show_icons=true&theme=radical" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=vishwakarma9470&theme=dark&hide_border=false" />
+</p>
 
----
-## 📫 **Connect With Me**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-vishwakarma-000739227/)  
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/vishwakarma9470)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:manishvishawakarma2003@gmail.com)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakarma9470&layout=compact&theme=dark" />
+</p>
 
 ---
 
-✨ **Thanks for visiting! Let's innovate together! 🚀**  
+## 🏆 **Certifications & Achievements**
 
+🏅 **Smart India Hackathon 2023 - Winner** (Among 500+ teams)\
+🔹 **Ethical Hacking & Penetration Testing** (C-DAC, NOIDA, Government of India)\
+📜 **6+ months of Data Science training** (Equivalent to Internship - PW Skills)\
+💡 **Generative AI (OpenAI, Gemini, Langchain, Hugging Face, LLaMA 2, PhiData)**
+
+---
+
+## 📫 **Let's Connect!**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manish-vishwakarma-000739227/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/vishwakarma9470">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:manishvishawakarma2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+🎉 **Thanks for visiting! Let's innovate together! 🚀**

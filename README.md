@@ -12,7 +12,7 @@
 
 ## 🎯 **About Me**
 
-- 🎓 **Final Year B.Tech** (Information Technology) at **Guru Ghasidas Vishwavidyalaya, Bilaspur**
+- 🎓 **Graduated B.Tech** (Information Technology) at **Guru Ghasidas Vishwavidyalaya, Bilaspur**
 - 🏆 **Winner of Smart India Hackathon 2023** (Among 500+ teams)
 - 💡 Passionate about **AI, Machine Learning, NLP, Deep Learning, Generative AI & Big Data**
 - 🔭 **I have an Experienced in Data Analytics from Vagus Hospital([MediPort.in](https://mediport.in))**
@@ -77,6 +77,9 @@
   <a href="mailto:manishvishawakarma2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="https://vishwakarma9470.github.io/My_Portfolio-/">
+    <img src="https://img.shields.io/badge/PortFolio-%23D14836.svg?style=for-the-badge&logo=portfolio&logoColor=white" />
+    </a>
 </p>
 
 ---

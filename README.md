@@ -15,7 +15,7 @@
 - 🎓 **Final Year B.Tech** (Information Technology) at **Guru Ghasidas Vishwavidyalaya, Bilaspur**
 - 🏆 **Winner of Smart India Hackathon 2023** (Among 500+ teams)
 - 💡 Passionate about **AI, Machine Learning, NLP, Deep Learning, Generative AI & Big Data**
-- 🔭 **I have an Experienced Data Analytics([MediPort.in](https://mediport.in), Data Scientists, ML Engineer)**
+- 🔭 **I have an Experienced Data Analytics from Vagus Hospital([MediPort.in](https://mediport.in))**
 
 ---
 

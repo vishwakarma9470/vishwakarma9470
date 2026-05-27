@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Manish Vishwakarma</h1>
-<h3 align="center">🚀 Data Science | AI | Generative AI | Machine Learning | Data Analyst Enthusiast</h3>
+<h3 align="center">🚀 Data Science | AI Generalist | Generative AI | Machine Learning | Data Analyst Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+profile!;AI+%7C+ML+%7C+Big+Data+%7C+Generative+AI+🚀;Building+cool+projects+with+Python+%F0%9F%92%BB" alt="Typing SVG" />
